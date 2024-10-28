@@ -8,5 +8,5 @@ I'm interested in
 - ♟️ playing chess
 - 🎾 watching tennis
   
-Learn more about me [here](imsinha0.github.io)!
+Learn more about me [here](https://imsinha0.github.io)!
 
