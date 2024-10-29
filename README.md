@@ -6,7 +6,6 @@ I'm interested in
 - 👨‍💻 creating clean software
 - ➕ learning cool math and computer science
 - ♟️ playing chess
-- 🎾 watching tennis
   
 Learn more about me [here](https://imsinha0.github.io)!
 
