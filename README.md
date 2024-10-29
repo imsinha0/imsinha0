@@ -1,6 +1,6 @@
 ### Hi there, I'm Ishaan (imsinha) 👋
 
-I'm interested in
+I'm an undergraduate at [Harvard](https://harvard.edu) interested in
 
 - 🧠 deep learning(diffusion models, physics of neural networks, biological and artificial intelligence)
 - 👨‍💻 creating clean software
