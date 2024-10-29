@@ -1,4 +1,4 @@
-### Hi there, I'm Ishaan 👋
+### Hi there, I'm Ishaan (imsinha) 👋
 
 I'm interested in
 
